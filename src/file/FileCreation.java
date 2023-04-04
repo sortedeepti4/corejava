@@ -8,6 +8,7 @@ import java.io.IOException;
 public class FileCreation {
 	public static void main(String[] args) {
 		//file creation
+		System.out.println("New change");
 		String filePath= "c:\\Java3\\test.txt";
 		File f= new File(filePath);
 		
