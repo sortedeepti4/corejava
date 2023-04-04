@@ -11,7 +11,7 @@ public class FileIOStream {
 	public static void main(String[] args) {
 		
 		int a= 10;
-		
+		Syestem.out.println("jira commit");
 		String readLocation= "c:\\java3\\Ayurvedic.jpg";
 		String writeLocation="c:\\java4\\demo.jpg";
 		try {
