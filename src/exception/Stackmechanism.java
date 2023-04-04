@@ -10,7 +10,6 @@ public class Stackmechanism {
 	
 		System.out.println("test one");
 		test2();
-		
 	}
 	
 	public static void test2() {
