@@ -10,7 +10,6 @@ public class DataTypes {
 	}
 	public static void main(String[] args) {
 		
-		
 		byte b=127;		
 		System.out.println(b);		
 		short s=3276;		
